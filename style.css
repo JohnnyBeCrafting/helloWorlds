@@ -13,6 +13,10 @@ body {
 	background-color: #191919;
 }
 
-p:last-child {
+p:nth-child(2) {
 	color: #66c8ee;
+}
+
+p:last-child {
+	color:   #c1061f;
 }
