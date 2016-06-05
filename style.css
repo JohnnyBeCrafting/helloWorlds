@@ -1,0 +1,18 @@
+.main-wrapper {
+	font-family: 'Indie Flower', cursive;
+	color: #e5e5e5;
+	font-size: 300%;
+	text-align: center;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+body {
+	background-color: #191919;
+}
+
+p:last-child {
+	color: #66c8ee;
+}
